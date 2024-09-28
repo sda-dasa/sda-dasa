@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sda-dasa
-- 👀 This repository is for the discipline "Algorithm and Data Structure Constraction" 
+
 - 🌱 I’m currently learning C# and OOP
 
 
