@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sda-dasa
 
-- 🌱 I’m currently learning C# and OOP
+- 🌱 I’m currently studying Ruby and OOP
 
 
 <!---
